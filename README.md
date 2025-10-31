@@ -56,16 +56,14 @@ CSS
 
 Metropolitan Museum API ([public](https://metmuseum.github.io/))
 
-SCREENSHOT:
 
-🏠 Halaman Utama
+## 📸 Screenshot Tampilan
 
-![Home Screenshot](screenshoot\Halaman Utama.png)
+### 🏠 Halaman Utama
+![Halaman Utama](screenshoot/Halaman%20Utama.png)
 
-🔍 Hasil Pencarian
+### 🔍 Hasil Pencarian
+![Hasil Pencarian](screenshoot/Hasil%20Pencarian.png)
 
-![Home Screenshot](screenshoot\Hasil Pencarian.png)
-
-❤️ Daftar Favorit
-
-![Home Screenshot](screenshoot\Halaman Favorite.png)
+### ❤️ Daftar Favorit
+![Halaman Favorit](screenshoot/Halaman%20Favorite.png)
